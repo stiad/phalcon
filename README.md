@@ -29,3 +29,6 @@ create extensions folder and upload provided phalcon.so file to new extensions f
 
 ### Step 4
 `killall -9 php72.cgi -u YOUR_USER_NAME`
+
+
+If this helped you please star this repo so other people can find it.
