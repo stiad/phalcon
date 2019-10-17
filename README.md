@@ -6,9 +6,8 @@ How to install Phalcon on DreamHost VPS
 
 ### Step 1
 
-Set your site to use PHP 7.2
+Set PHP 7.2 as your PHP Version
 
-![alt text](https://i.ibb.co/8rcxxrf/Screenshot-from-2019-06-04-11-07-33.png)
 
 
 ### Step 2
