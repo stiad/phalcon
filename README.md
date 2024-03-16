@@ -15,7 +15,7 @@ Set PHP 7.2 as your PHP Version
 >Edit .php/7.2/phprc
 
 ```
-extension=/home/{YOUR_USER_NAME}/.php/7.2/extensions/phalcon.so
+extension=/home/YOUR_USER_NAME/.php/7.2/extensions/phalcon.so
 ```
 
 
@@ -27,7 +27,7 @@ create extensions folder and upload provided phalcon.so file to new extensions f
 
 
 ### Step 4
-`killall -9 php72.cgi -u YOUR_USER_NAME`
+`killall -9 php72.cgi -u $USER`
 
 ___
 If this helped you please star this repo so other people can find it.
